@@ -64,3 +64,5 @@ group :development, :test do
 end
 
 gem 'rspec-rails', '~> 3.5'
+
+gem 'jquery-rails'
